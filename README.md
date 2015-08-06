@@ -1,7 +1,7 @@
 # COMP496-GreedyAlgorithms
 
 ##Project 1 Description Task: 
-Recall the 1 machine scheduling with deadlines problem where the goal was to minimize the sum of
+Task: Recall the 1 machine scheduling with deadlines problem where the goal was to minimize the sum of
 the latenesses of the jobs. You are to write a program to solve instances of this problem. The input will be
 provided to your program in a text file called jobs.txt. Each line of this file will contain 2 numbers seperated
 by whitespace. The two numbers will represent the processing time and deadline of each job.
