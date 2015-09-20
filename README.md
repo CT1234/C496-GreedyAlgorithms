@@ -1,4 +1,4 @@
-# COMP496-GreedyAlgorithms
+# C496-GreedyAlgorithms
 
 ##Project 1 Description Task: 
 Task: Recall the 1 machine scheduling with deadlines problem where the goal was to minimize the sum of
